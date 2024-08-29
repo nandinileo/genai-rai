@@ -1,7 +1,7 @@
 # genai-rai
 RAI practices for GenAI applications
 
-<img src="https://github.com/user-attachments/assets/467b8b54-baf8-4e53-8f17-66f218656eb2" alt="image" width="400" height="200">
+<img src="https://github.com/user-attachments/assets/467b8b54-baf8-4e53-8f17-66f218656eb2" alt="image" width="600" height="400">
 
 You can help create clarity across your organization by setting up principles for the responsible design and use of AI. Put those principles into practice by taking a human-centered approach to AI that spans roles, processes, and functions supported by tools and governance to help you build AI solutions grounded in trust.
 
@@ -47,6 +47,6 @@ If you want to learn more about our internal approach, I encourage you to read o
 In it, you’ll find information about how we build AI solutions and make decisions about AI, as well as how we invest in the global responsible AI community to keep advancing responsible AI policy, research, and products.
 You will also find links to our Responsible AI Standard, Impact Assessment templates, and other resources to help you build out your own internal governance processes.
 
-<img src="https://github.com/user-attachments/assets/0ca783c0-1670-4a9d-b283-bee22a2ed45c" alt="image" width="300" height="200">
+<img src="https://github.com/user-attachments/assets/0ca783c0-1670-4a9d-b283-bee22a2ed45c" alt="image" width="200" height="200">
 
 
