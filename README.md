@@ -26,7 +26,7 @@ Trust and Transparency: By adhering to responsible AI principles, organizations 
  
 It is critical to understand that responsible AI isn’t just a theoretical concept—it’s essential for safe and ethical LLM applications. Within Azure AI today, we have 20 Responsible AI tools with more than 90 features to help customers bring generative AI to market with confidence.
 
-**Something we get asked all the time is, how were we able to launch so many generative AI products so quickly and confidently? **
+**Something we get asked all the time is, how were we able to launch so many generative AI products so quickly and confidently?**
 Well, we’ve been operationalizing responsible AI for a while now, so we already had strong governance mechanisms in place.
 
 So, my goal is to provide you with an overview of resources available to help YOU operationalize AI responsibly.
@@ -35,9 +35,10 @@ Now, this makes the process look linear, but in reality, like any software devel
 
 Microsoft Responsible AI Standard, sets the policy requirements that our own engineering teams follow. Much of the content of the Standard, follows a pattern, asking teams to Identify, Measure, and Mitigate potential harms, and plan for how to Operate the AI system as well. First I will give a high level overview of what these steps are and then we can dive deep into it each one.
 
-**Identify : **We Identify and prioritize potential harms that could result from AI system through iterative red-teaming, stress-testing, and analysis.
+**Identify :**We Identify and prioritize potential harms that could result from AI system through iterative red-teaming, stress-testing, and analysis.
 **Measure :** We Measure the frequency and severity of those harms by establishing clear metrics, creating measurement test sets, and completing iterative, systematic testing (both manual and automated).
-**Mitigate : **Mitigate harms by implementing tools and strategies such as prompt engineering and using our content filters. Repeat measurement to test effectiveness after implementing mitigations.
+**Mitigate :**Mitigate harms by implementing tools and strategies such as prompt engineering and using our content filters. Repeat measurement to test effectiveness after implementing mitigations.
+
 Once measurement and mitigation systems are in place, we define and execute a deployment and operational readiness plan. This stage includes completing appropriate reviews of the system and mitigation plans with relevant stakeholders, establishing pipelines to collect telemetry and feedback, and developing an incident response and rollback plan, prepare for immediate action for unanticipated harms, develop a mechanism to block people who are misusing the system, build a effective user feedback channels (like thumbs up or down)
 
 If you want to learn more about our internal approach, I encourage you to read our Transparency Report.
