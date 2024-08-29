@@ -15,9 +15,7 @@ Inclusiveness looks at how the system should be designed to be inclusive of peo
 Lastly, are our foundational principles of Transparency and Accountability. These account for how people could misunderstand, misuse, or incorrectly estimate the capabilities of the system, while creating the necessary oversight so that humans can be accountable and in control with these systems.
 These 6 principles that have not changed since Microsoft first adopted them in 2018 – they continue to be durable, even as AI technologies evolve.
 
-![image](https://github.com/user-attachments/assets/844ef70c-b15a-4863-9311-5b5a485a8d6e)
-
-So, what is Responsible AI in this context? 
+**So, what is Responsible AI in GenAI? **
 It’s the same as it has always been – it’s about creating AI technologies and solutions that harness all of this amazing potential while anticipating and mitigating the risks.
 
 Generative AI models that have demonstrated improvements in advanced capabilities such as content and code generation, summarization, and search. With many of these improvements also come increased responsible AI challenges related to harmful content, manipulation, human-like behavior, privacy, and more.
@@ -28,7 +26,6 @@ Security and Privacy: LLMs may inadvertently leak sensitive information. Respon
 Trust and Transparency: By adhering to responsible AI principles, organizations build trust with users. Transparency ensures users understand how LLMs work and their limitations.
  
 It is critical to understand that responsible AI isn’t just a theoretical concept—it’s essential for safe and ethical LLM applications. Within Azure AI today, we have 20 Responsible AI tools with more than 90 features to help customers bring generative AI to market with confidence.
-![image](https://github.com/user-attachments/assets/ae9db9c8-c963-4796-9440-75b034039f22)
 
 Something we get asked all the time is, how were we able to launch so many generative AI products so quickly and confidently? 
 Well, we’ve been operationalizing responsible AI for a while now, so we already had strong governance mechanisms in place.
@@ -44,7 +41,6 @@ Identify : We Identify and prioritize potential harms that could result from AI
 Measure : We Measure the frequency and severity of those harms by establishing clear metrics, creating measurement test sets, and completing iterative, systematic testing (both manual and automated).
 Mitigate : Mitigate harms by implementing tools and strategies such as prompt engineering and using our content filters. Repeat measurement to test effectiveness after implementing mitigations.
 Once measurement and mitigation systems are in place, we define and execute a deployment and operational readiness plan. This stage includes completing appropriate reviews of the system and mitigation plans with relevant stakeholders, establishing pipelines to collect telemetry and feedback, and developing an incident response and rollback plan, prepare for immediate action for unanticipated harms, develop a mechanism to block people who are misusing the system, build a effective user feedback channels (like thumbs up or down)
-
 
 If you want to learn more about our internal approach, I encourage you to read our Transparency Report.
 In it, you’ll find information about how we build AI solutions and make decisions about AI, as well as how we invest in the global responsible AI community to keep advancing responsible AI policy, research, and products.
