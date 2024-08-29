@@ -46,8 +46,7 @@ Once measurement and mitigation systems are in place, we define and execute a de
 If you want to learn more about our internal approach, I encourage you to read our Transparency Report.
 In it, you’ll find information about how we build AI solutions and make decisions about AI, as well as how we invest in the global responsible AI community to keep advancing responsible AI policy, research, and products.
 You will also find links to our Responsible AI Standard, Impact Assessment templates, and other resources to help you build out your own internal governance processes.
-![image](https://github.com/user-attachments/assets/89ff5646-5f56-44ac-8d89-c5b6b48a692b)
 
-![image](https://github.com/user-attachments/assets/0ca783c0-1670-4a9d-b283-bee22a2ed45c)
+<img src="https://github.com/user-attachments/assets/0ca783c0-1670-4a9d-b283-bee22a2ed45c" alt="image" width="300" height="200">
 
 
