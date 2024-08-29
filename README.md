@@ -35,9 +35,11 @@ Now, this makes the process look linear, but in reality, like any software devel
 
 Microsoft Responsible AI Standard, sets the policy requirements that our own engineering teams follow. Much of the content of the Standard, follows a pattern, asking teams to Identify, Measure, and Mitigate potential harms, and plan for how to Operate the AI system as well. First I will give a high level overview of what these steps are and then we can dive deep into it each one.
 
-**Identify :**We Identify and prioritize potential harms that could result from AI system through iterative red-teaming, stress-testing, and analysis.
+**Identify :** We Identify and prioritize potential harms that could result from AI system through iterative red-teaming, stress-testing, and analysis.
+
 **Measure :** We Measure the frequency and severity of those harms by establishing clear metrics, creating measurement test sets, and completing iterative, systematic testing (both manual and automated).
-**Mitigate :**Mitigate harms by implementing tools and strategies such as prompt engineering and using our content filters. Repeat measurement to test effectiveness after implementing mitigations.
+
+**Mitigate :** Mitigate harms by implementing tools and strategies such as prompt engineering and using our content filters. Repeat measurement to test effectiveness after implementing mitigations.
 
 Once measurement and mitigation systems are in place, we define and execute a deployment and operational readiness plan. This stage includes completing appropriate reviews of the system and mitigation plans with relevant stakeholders, establishing pipelines to collect telemetry and feedback, and developing an incident response and rollback plan, prepare for immediate action for unanticipated harms, develop a mechanism to block people who are misusing the system, build a effective user feedback channels (like thumbs up or down)
 
