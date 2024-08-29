@@ -15,7 +15,7 @@ Our **Fairness** principle speaks to how AI allocates opportunities, resources, 
 Lastly, are our foundational principles of **Transparency** and **Accountability**. These account for how people could misunderstand, misuse, or incorrectly estimate the capabilities of the system, while creating the necessary oversight so that humans can be accountable and in control with these systems.
 These 6 principles that have not changed since Microsoft first adopted them in 2018 – they continue to be durable, even as AI technologies evolve.
 
-**So, what is Responsible AI in GenAI? **
+**So, what is Responsible AI in GenAI?**
 It’s the same as it has always been – it’s about creating AI technologies and solutions that harness all of this amazing potential while anticipating and mitigating the risks.
 
 Generative AI models that have demonstrated improvements in advanced capabilities such as content and code generation, summarization, and search. With many of these improvements also come increased responsible AI challenges related to harmful content, manipulation, human-like behavior, privacy, and more.
